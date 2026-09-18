@@ -159,7 +159,15 @@ Create a single report page containing:
 
 Finally, identify at least three meaningful business insights from the analysis.
 
-**Expected Output**
+**Output**
+
+<img width="1680" height="882" alt="image" src="https://github.com/user-attachments/assets/0a9e5c35-c103-4370-ac58-0b35d4370f86" />
+
+**Business Insights**
+ - Sales peak in May, reaching approximately 320K, while February records the lowest sales at around 230K.
+ - Sales show a fluctuating trend throughout the year, with noticeable increases in March, May, July–September, and November–December, while February, April, June, and October show declines.
+ - October has the largest monthly decline, with Sales Change falling to approximately -60K, indicating a significant drop in sales during that period.
+ - Sales recover strongly after October, increasing in November and December and reaching around 300K by December.
 
 **Result**
 Thus, the sales data was successfully analyzed using time-series techniques in Power BI. Monthly trends, sales changes, growth rates, moving averages, and year-over-year performance were calculated and visualized to create an interactive Time Series Sales Analysis Report.
